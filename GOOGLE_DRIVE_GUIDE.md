@@ -1,4 +1,4 @@
-# Cara Upload Gambar ke Google Drive untuk Indonesia Daily
+# Cara Upload Gambar ke Google Drive untuk Kabar Janten
 
 ## Langkah-langkah Upload Gambar:
 
