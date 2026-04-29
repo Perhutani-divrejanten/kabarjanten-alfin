@@ -59,11 +59,9 @@ async function loadLatestNews() {
             
             colDiv.innerHTML = articleHtml;
             latestNewsRow.appendChild(colDiv);
-            
-            }
         });
 
-        console.log('âœ… Latest news loaded successfully');
+        console.log('✔ Latest news loaded successfully');
 
     } catch (error) {
         console.error('âŒ Error loading latest news:', error);
